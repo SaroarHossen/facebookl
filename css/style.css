@@ -1,0 +1,52 @@
+*{margin: 0;padding: 0;}
+body{background-color: #DEE2EE;}
+.header {min-height: 100px;background-color: #3B5998;overflow: hidden;
+}
+
+.h_wrapper {width:80%;margin: 0 auto;position: relative;
+}
+
+.logo {margin-top: 30px;width: 20%;min-height: 80px;position: absolute;float: left;
+}
+
+.sign_in {position: absolute;width: 40%;min-height: 80px;float: right;right: -3%;margin-top: 10px;
+}
+#Email{color: white;margin-left: 48px;}
+#email{margin-top: 6px;margin-left: 48px;}
+#password{float: right;margin-top: -18px;}
+#pss{float: right; margin-top: -41px;margin-right: 111px;color: white;}
+#login{float: right;margin-right: -219px;margin-top: -19PX;}
+#span{margin-left: 50px;color: white;}
+#span:hover{background-color: white;}
+.contentarea {overflow: hidden;
+}
+
+.c_wrapper {min-height: 550px;margin: 0 auto;width: 80%;position: relative;}
+.c_wrapper h2{margin-top: 35px;}
+
+.identification_image {width: 50%;position: absolute;float: left;
+}
+
+.sign_upform {width: 30%;position: absolute;float: right;right: 2%;top: 2%;
+}
+.sign_upform h1{margin-top: -30px;font-size: 40px;}
+
+.sign_upform h2{margin-top: 3px;}
+.provide{float: right;margin-right: -18px;left: 58%;margin-top: -40px;margin-left:-4px;position: absolute;text-decoration: none;}
+.lastname{float: right;margin-top: -18px;padding: 10px;margin-bottom: 10px;border-radius:5px;border: 1px solid gray;}
+.firstname{padding: 10px;margin-bottom: -19px;border-radius: 5px;position: absolute;border-radius:5px;border: 1px solid gray;}
+.input_text{height: 30px;margin-bottom: 10px;border-radius: 5px;border: 1px solid gray;padding-left: 10px;}
+::-webkit-input-placeholder{font-size: 16px;}
+.select{height: 30px;width: 60px;margin-left: -4px;border: 1px solid red;margin-top: 10px;margin-bottom: 10px;}
+.radio{margin-bottom: 10px;}
+h6{color:teal;}
+.submit_text{width: 150px;height: 30px;background-color: #73B35F;margin-bottom: 25px;}
+
+.footer {overflow: hidden;background-color: white;min-height: 160px;
+}
+
+.f_wrapper {width: 80%;min-height: 100px;margin: 0 auto;
+}
+
+.footer_image {margin-left:-26px;margin-top: 20px;
+}
